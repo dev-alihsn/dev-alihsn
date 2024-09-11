@@ -22,7 +22,7 @@ I'm a BIS student and a passionate web developer and designer with over 3 years 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working for [Devop Technologies](https://www.linkedin.com/company/devop-technologies/)  
   
@@ -34,10 +34,6 @@ I'm a BIS student and a passionate web developer and designer with over 3 years 
   
 
 - 🤝 Always open to collaborating on projects and innovative/disruptive ideas  
-
-
-</td><td valign="top" width="50%">
-
 
 
 </td></tr></table>  
@@ -88,12 +84,3 @@ I'm a BIS student and a passionate web developer and designer with over 3 years 
 
 <br/>  
 
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
