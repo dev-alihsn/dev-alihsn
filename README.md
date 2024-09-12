@@ -10,7 +10,6 @@
 <a href="https://x.com/AliHassn1218142" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-![Static Badge](https://img.shields.io/badge/-dev.alihsn@gmail.com-red?style=flat-square&logo=Gmail&logoColor=%23ffffff&labelColor=%235c5c5c&color=%23c5221f&link=mailto%3Adev.alihsn@gmail.com)
 
 ### Glad to see you here!  
 I'm a BIS student and a passionate web developer and designer with over 3 years of experience. I love exploring new technologies and continuously expanding my skills currently diving into React.js. I'm also a big fan of Linux and Vim, always looking for ways to improve my workflow. Beyond work, my curiosity drives me to keep learning and problem-solving every day.  
