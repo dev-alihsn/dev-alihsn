@@ -51,12 +51,12 @@ const ali = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-alihsn&show_icons=true&theme=graywhite&hide_border=true&bg_color=00000000&title_color=2D3748&text_color=4A5568&icon_color=6B7280" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-alihsn&layout=compact&theme=graywhite&hide_border=true&bg_color=00000000&title_color=2D3748&text_color=4A5568" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-alihsn&show_icons=true&theme=github_dark&hide_border=true&hide_title=false&include_all_commits=true&line_height=28&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&ring_color=1f6feb" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-alihsn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-alihsn&theme=graywhite&hide_border=true&background=00000000&stroke=00000000&dates=4A5568&currLabel=2D3748&sideLabels=4A5568" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-alihsn&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 </p>
 
 ---
