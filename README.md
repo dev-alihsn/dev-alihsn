@@ -24,9 +24,7 @@ const ali = {
   role: "Full-Stack Developer",
   focus: ["Laravel", "Vue 3", "TypeScript"],
   basedIn: "Egypt",
-  currently: "Open to junior/mid-level roles — remote or relocation",
-  shipped: "65+ freelance projects · ⭐ 5-star rating",
-  funFact: "3 years of professional work while completing my degree"
+  currently: "Looking for new opportunities — open to junior/mid roles, remote or relocation"
 };
 ```
 
@@ -49,63 +47,6 @@ const ali = {
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-### 🚀 What I've Built
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Postee.ai</h3>
-      <p align="center">
-        <a href="https://postee.ai" target="_blank">
-          <img src="https://img.shields.io/badge/LIVE-postee.ai-2EA44F?style=for-the-badge" />
-        </a>
-      </p>
-      <p align="center">
-        Multi-platform social media scheduler with queue-driven publishing, per-platform content previews, and integrated AI tools.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">YTBoxRec</h3>
-      <p align="center">
-        <a href="https://ytboxrec.com" target="_blank">
-          <img src="https://img.shields.io/badge/LIVE-ytboxrec.com-2EA44F?style=for-the-badge" />
-        </a>
-      </p>
-      <p align="center">
-        Boxing records database with 700+ fighter profiles, custom relational data architecture, and a hand-coded theme.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/ACF-6B9DD6?style=flat-square&logo=wordpress&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" width="100%">
-      <h3 align="center">Multilingual E-Commerce Platform</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/STATUS-In_Development-F39C12?style=for-the-badge" />
-      </p>
-      <p align="center">
-        Full commerce platform with custom i18n, multi-variant SKUs, attribute-based filtering, and idempotent background jobs.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Filament-F9A825?style=flat-square&logo=laravel&logoColor=black" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
 
 ### 📊 GitHub Stats
 
