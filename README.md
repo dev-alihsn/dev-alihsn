@@ -1,83 +1,129 @@
-## Hey 👋, I'm Ali Hassn!  
-  
+<div align="center">
 
-<a href="https://linkedin.com/in/ali-hassn-495b69202" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/ali.hassn.1614" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-<a href="https://x.com/AliHassn1218142" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2D3748&center=true&vCenter=true&multiline=false&repeat=true&width=440&height=50&lines=Hey+%F0%9F%91%8B%2C+I'm+Ali+Hassn;Full-Stack+Developer;Laravel+%C2%B7+Vue+%C2%B7+TypeScript" alt="Typing SVG" />
 
-### Glad to see you here!  
-I'm a BIS student and a passionate web developer and designer with over 3 years of experience. I love exploring new technologies and continuously expanding my skills currently diving into React.js. I'm also a big fan of Linux and Vim, always looking for ways to improve my workflow. Beyond work, my curiosity drives me to keep learning and problem-solving every day.  
-  
+<br/>
 
-<br/>  
+<p>
+  <em>Architecture first, code second.</em>
+</p>
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.alihsn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-alihsn/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://alihsn.vercel.app)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dev_alihsn)
 
-## Rapidfire  
-<table><tr><td valign="top" width="100%">
+</div>
 
-- 🔭 I’m currently working for [Devop Technologies](https://www.linkedin.com/company/devop-technologies/)  
-  
+---
 
-- 🌱 I’m currently learning React.js  
-  
+### 👨‍💻 About Me
 
-- ❓ Ask me about anything related to Wordpress or Frontend technologies  
-  
+```typescript
+const ali = {
+  role: "Full-Stack Developer",
+  focus: ["Laravel", "Vue 3", "TypeScript"],
+  basedIn: "Egypt",
+  currently: "Open to junior/mid-level roles — remote or relocation",
+  shipped: "65+ freelance projects · ⭐ 5-star rating",
+  funFact: "3 years of professional work while completing my degree"
+};
+```
 
-- 🤝 Always open to collaborating on projects and innovative/disruptive ideas  
+### 🛠️ Tech Stack
 
+<p align="center">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inertia.js-9553D9?style=for-the-badge&logo=inertia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <!-- Tools & Infra -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Filament-F9A825?style=for-the-badge&logo=laravel&logoColor=black" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-</td></tr></table>  
+### 🚀 What I've Built
 
-<br/>  
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Postee.ai</h3>
+      <p align="center">
+        <a href="https://postee.ai" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE-postee.ai-2EA44F?style=for-the-badge" />
+        </a>
+      </p>
+      <p align="center">
+        Multi-platform social media scheduler with queue-driven publishing, per-platform content previews, and integrated AI tools.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">YTBoxRec</h3>
+      <p align="center">
+        <a href="https://ytboxrec.com" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE-ytboxrec.com-2EA44F?style=for-the-badge" />
+        </a>
+      </p>
+      <p align="center">
+        Boxing records database with 700+ fighter profiles, custom relational data architecture, and a hand-coded theme.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/ACF-6B9DD6?style=flat-square&logo=wordpress&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="100%">
+      <h3 align="center">Multilingual E-Commerce Platform</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/STATUS-In_Development-F39C12?style=for-the-badge" />
+      </p>
+      <p align="center">
+        Full commerce platform with custom i18n, multi-variant SKUs, attribute-based filtering, and idempotent background jobs.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Filament-F9A825?style=flat-square&logo=laravel&logoColor=black" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
+### 📊 GitHub Stats
 
-## Languages and Tools  
-<div align="left">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="25" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>  
-<a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="25" /></a>  
-</div>  
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-alihsn&show_icons=true&theme=graywhite&hide_border=true&bg_color=00000000&title_color=2D3748&text_color=4A5568&icon_color=6B7280" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-alihsn&layout=compact&theme=graywhite&hide_border=true&bg_color=00000000&title_color=2D3748&text_color=4A5568" />
+</p>
 
-<br/>  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-alihsn&theme=graywhite&hide_border=true&background=00000000&stroke=00000000&dates=4A5568&currLabel=2D3748&sideLabels=4A5568" />
+</p>
 
+---
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-alihsn&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+**Thanks for stopping by 👊**
 
-</td><td valign="top" width="50%">
+<img src="https://komarev.com/ghpvc/?username=dev-alihsn&style=flat-square&color=2D3748" alt="visitors" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-alihsn&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
+</div>
