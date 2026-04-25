@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2D3748&center=true&vCenter=true&multiline=false&repeat=true&width=440&height=50&lines=Hey+%F0%9F%91%8B%2C+I'm+Ali+Hassn;Full-Stack+Developer;Laravel+%C2%B7+Vue+%C2%B7+TypeScript" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=440&height=50&lines=Hey+%F0%9F%91%8B%2C+I'm+Ali+Hassn;Full-Stack+Developer;Laravel+%C2%B7+Vue+%C2%B7+TypeScript" alt="Typing SVG" />
 
 <br/>
 
@@ -51,12 +51,12 @@ const ali = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-alihsn&show_icons=true&theme=github_dark&hide_border=true&hide_title=false&include_all_commits=true&line_height=28&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&ring_color=1f6feb" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-alihsn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-alihsn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-alihsn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-alihsn&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-alihsn&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9" />
 </p>
 
 ---
