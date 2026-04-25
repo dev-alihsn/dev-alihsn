@@ -24,7 +24,7 @@ const ali = {
   role: "Full-Stack Developer",
   focus: ["Laravel", "Vue 3", "TypeScript"],
   basedIn: "Egypt",
-  currently: "Looking for new opportunities — open to junior/mid roles, remote or relocation"
+  currently: "Open to full-stack roles (remote or relocation) and selective freelance work"
 };
 ```
 
